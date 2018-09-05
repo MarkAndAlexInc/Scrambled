@@ -1,0 +1,19 @@
+{
+  "name": "scrambled",
+  "version": "1.0.0",
+  "description": "A C++ & web-assembly project to add effects to audio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkAndAlexInc/Scrambled.git"
+  },
+  "author": "Mark and Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkAndAlexInc/Scrambled/issues"
+  },
+  "homepage": "https://github.com/MarkAndAlexInc/Scrambled#readme"
+}
